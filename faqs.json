@@ -1,0 +1,32 @@
+[
+  {
+      "id": "1",
+      "question": "What is APITable?",
+      "answer": "APITable is a web-based platform that allows users to create and manage APIs without needing to write any code. It provides a simple interface for users to define their data sources and map them to API endpoints."
+  },
+  {
+      "id": "2",
+      "question": "What are the benefits of using APITable?",
+      "answer": "APITable eliminates the need for developers to write custom code to create APIs. This saves time and resources, and allows non-technical users to create APIs easily. Additionally, APITable provides features such as data validation, authentication, and rate limiting out of the box."
+  },
+  {
+      "id": "3",
+      "question": "What kind of data sources can I use with APITable?",
+      "answer": "APITable currently supports MySQL, PostgreSQL, SQLite, and Microsoft SQL Server as data sources. You can also use CSV files or Google Sheets as data sources."
+  },
+  {
+      "id": "4",
+      "question": "How do I authenticate requests to my API?",
+      "answer": "APITable provides several authentication methods, including API key, OAuth2, and JWT. You can configure authentication settings for each API endpoint in the APITable dashboard."
+  },
+  {
+      "id": "5",
+      "question": "Can I limit the number of requests to my API?",
+      "answer": "Yes, APITable provides rate limiting functionality out of the box. You can configure rate limits for each API endpoint in the dashboard."
+  },
+  {
+      "id": "6",
+      "question": "How much does APITable cost?",
+      "answer": "APITable has a free plan that allows up to 1000 requests per month. Paid plans start at $19 per month and offer increased limits and additional features."
+  }
+]
