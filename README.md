@@ -2,6 +2,8 @@
 
 This is a simple chatbot application that uses Flask and Pinecone. It allows users to ask questions and get answers from a knowledge base.
 
+Referred to Pinecone's example [Chatbot Agents with LangChain](https://docs.pinecone.io/docs/langchain-retrieval-agent), more examples: [Examples](https://docs.pinecone.io/docs/examples?utm_medium=email&_hsmi=250250907&_hsenc=p2ANqtz-9i0hjQUTYllnr6M_YMZz4-XAubyWt02yAwFNT640JnWagcxPnrXWzJXsWJv4rZW_vi56mRFbB0A4t_yZ9KhzG_rFs8Ag&utm_content=248662537&utm_source=hs_automation)
+
 ## Getting Started
 
 ### Create Pinecone Accout
